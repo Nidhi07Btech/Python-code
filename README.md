@@ -3,6 +3,8 @@ This is my repository to practice all python programming
 <br>
 Author- Nidhi Agrawal
 <br><br>
+#1st program.py file<br>
+
  My first code of pyhton of simple printing "hello world" in it.
  <br>
  Print the number and float value with simple multiplication, add, and subtract.
@@ -12,14 +14,27 @@ Author- Nidhi Agrawal
  <br>
  <br>
  Data type in python that is :
- <br>
  Integer, float, string, boolean, and none
  <br>
  <br>
- keywords in python - reserved words
+ keywords in python - reserved words like int, str, bool, etc
+<br>
+Comment in python - # single line commnts   and   """ """ multi line comment
+<br>
+<br>
 
+# Operator.py 
+
+operators in python 
+
+a) Arithmetic operator - { + , - , * , / , % , ** }
+b) Relational /  operator - { == , != , > , < , >=, <= }
+c) Assignment operator - { = , += , -= , *= , /= , %= , **= }
+d) Logical operator- { not , and , or }
+
+
+# Program_Que
  <br>
- Program to print sum of two numbers by taking inputs of the numbers.
+ Program to print sum of two numbers.
 
- <br>
-
+ 
