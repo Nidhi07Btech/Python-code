@@ -27,10 +27,10 @@ Comment in python - # single line commnts   and   """ """ multi line comment
 
 operators in python 
 
-a) Arithmetic operator - { + , - , * , / , % , ** }
-b) Relational /  operator - { == , != , > , < , >=, <= }
-c) Assignment operator - { = , += , -= , *= , /= , %= , **= }
-d) Logical operator- { not , and , or }
+a) Arithmetic operator - { + , - , * , / , % , ** }<br>
+b) Relational /  operator - { == , != , > , < , >=, <= }<br>
+c) Assignment operator - { = , += , -= , *= , /= , %= , **= }<br>
+d) Logical operator- { not , and , or }<br>
 
 
 # Program_Que
