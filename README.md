@@ -18,5 +18,10 @@ Author- Nidhi Agrawal
  Integer, float, string, boolean, and none
  <br>
  <br>
- keywords in python
+ keywords in python - reserved words
+
+ <br>
+ Program to print sum of two numbers by taking inputs of the numbers.
+
+ <br>
 
